@@ -1,0 +1,11 @@
+header{
+    background-color: whitesmoke ;
+    padding: 0px;
+    border-bottom:2px solid #e72929;
+}
+ a{
+    color:#af1313 ; 
+ }
+ a:hover{
+    color: #e72929;
+ }
